@@ -29,7 +29,7 @@ def keep_alive():
 
 # ----------- ২. কনফিগারেশন -----------
 # এখানে আপনার মূল বট টোকেনটি দিন
-BOT_TOKEN = "8699896858:AAHaqeEGjj8xfNjflGCIrHbZtbfkqCVaf8c"
+BOT_TOKEN = "8699896858:AAFPdusB2csHoQwMw37zpo6C1bLV6IWGxFs"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ইউজার স্টেট ও স্টপ কন্ট্রোল
